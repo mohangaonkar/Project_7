@@ -1,1 +1,1 @@
-pytest -v -s -m "sanity" --browser chrome
+pytest -v -s testCases/test_login.py 
